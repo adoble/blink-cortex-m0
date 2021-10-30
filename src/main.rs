@@ -61,7 +61,7 @@ fn main() -> ! {
     //let mut serial = bsp::ehal::default_serial!(peripherals, pins, 57600);
     //let mut ser = bsp::hal::default_serial();
     loop {
-        delay.delay_ms(300u16);
+        delay.delay_ms(200u16);
         red_led.set_high().unwrap();
         pin_9.set_high().unwrap();
         delay.delay_ms(300u16);

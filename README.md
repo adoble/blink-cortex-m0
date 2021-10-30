@@ -119,7 +119,7 @@ $ cargo build
 
 6. Copy the generated code over to a binary suitable for flashing.
 ``` console
-$ objcopy -O binary .\target\thumbv6m-none-eabi\debug\blink-cortex-m0 .\target\thumbv6m-none-eabi\debug\blink-cortext-m0.bin
+$ objcopy -O binary .\target\thumbv6m-none-eabi\debug\blink-cortex-m0 .\target\thumbv6m-none-eabi\debug\blink-cortex-m0.bin
 ```
 
 > 
