@@ -1,5 +1,6 @@
-# `cortex-m0-quickstart`
+# `blink-cortex-m0`
 
+Simple blink program written in Rust for the Adafruit Feather M0 board. 
 
 This project has been generated using the [cortex-mo-quickstart](https://github.com/rust-embedded/cortex-m-quickstart).
 
